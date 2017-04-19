@@ -1,1 +1,10 @@
-This file serves as an introduction to your Knowledge Base, it is displayed on the homepage of your website. Use it to provide more context to your visitors.
+# О курсе
+
+Курс \( GIA11 \) адресован проходящим государственную итоговую аттестацию.
+
+#### Внимание!
+
+Ежегодная поддержка GIA11 не планируется. Внимательно проверяйте соответствие версии и года публикации.
+
+version 0.1 19.04.2017 
+

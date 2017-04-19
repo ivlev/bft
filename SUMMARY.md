@@ -1,4 +1,6 @@
 # Summary
 
-* [What is XYZ?](first-question.md)
-* [How can I do X?](second-question.md)
+* [О курсе](README.md)
+* [Структура курса](first-question.md)
+* [Порядок изучения курса](second-question.md)
+
