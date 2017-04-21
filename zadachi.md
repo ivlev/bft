@@ -1,6 +1,6 @@
 ### Задачи по разделам
 
-* [Системы счисления](https://www.gitbook.com/book/ivlev/gia11/edit#/edit/master/zadachi-sistemi-schisleniya.md?_k=hu829u)
+* [Системы счисления](/zadachi-sistemi-schisleniya.md)
 * Математическая логика
 * Графы 
 * Базы данных
