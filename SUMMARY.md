@@ -7,4 +7,5 @@
 * [Математическая логика](matematicheskaya-logika.md)
 * [Задачи](zadachi.md)
 * [Задачи: Системы счисления](zadachi-sistemi-schisleniya.md)
+* [Задачи: Математическая логика](zadachi-matematicheskaya-logika.md)
 
