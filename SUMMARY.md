@@ -4,6 +4,7 @@
 * [Структура курса](first-question.md)
 * [Порядок изучения курса](second-question.md)
 * [Системы счисления](sistemi-schisleniya.md)
+* [Математическая логика](matematicheskaya-logika.md)
 * [Задачи](zadachi.md)
 * [Задачи: Системы счисления](zadachi-sistemi-schisleniya.md)
 
