@@ -7,9 +7,8 @@
 * [Математическая логика](matematicheskaya-logika.md)
 * Графы
 * Базы данных
-* Декодирование информации
-* [Алгоритмизация](dekodirovanie-informatsii.md)
-* Прикладное программное обеспечение
+* [Декодирование информации](dekodirovanie-informatsii.md)
+* [Прикладное программное обеспечение](prikladnoe-programmnoe-obespechenie.md)
 * Компьютерные сети
 * Программирование
 * [Задачи](zadachi.md)
