@@ -6,10 +6,9 @@
 * [Системы счисления](sistemi-schisleniya.md)
 * [Математическая логика](matematicheskaya-logika.md)
 * [Графы](grafi.md)
-* Базы данных
-* Декодирование информации
+* [Базы данных](bazi-dannih.md)
 * [Алгоритмизация](dekodirovanie-informatsii.md)
-* Прикладное программное обеспечение
+* [Прикладное программное обеспечение](prikladnoe-programmnoe-obespechenie.md)
 * Компьютерные сети
 * Программирование
 * [Задачи](zadachi.md)
