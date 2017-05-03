@@ -12,5 +12,5 @@
 * Программирование
 * [Задачи](zadachi.md)
 * [Задачи: Системы счисления](zadachi-sistemi-schisleniya.md)
-* Декодирование информации
+* [Декодирование информации](dekodirovanie-informatsii.md)
 
