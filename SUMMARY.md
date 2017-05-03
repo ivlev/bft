@@ -14,4 +14,5 @@
 * [Задачи](zadachi.md)
 * [Задачи: Системы счисления](zadachi-sistemi-schisleniya.md)
 * [Задачи: Математическая логика](zadachi-matematicheskaya-logika.md)
+* [Задачи: Компьютерные сети](zadachi-kompyuternie-seti.md)
 
