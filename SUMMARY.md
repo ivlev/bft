@@ -16,7 +16,7 @@
 * [Задачи: Математическая логика](zadachi-matematicheskaya-logika.md)
 * [Задачи: Графы](zadachi-grafi.md)
 * [Задачи: Компьютерные сети](zadachi-kompyuternie-seti.md)
-* Задачи: Базы данных 
+* [Задачи: Базы данных ](zadachi-bazi-dannih.md)
 * [Задачи: Декодирование информации](zadachi-dekodirovanie-informatsii.md)
 * [Задачи: Прикладное программное обеспечение](zadachi-prikladnoe-programmnoe-obespechenie.md)
 * [Задачи: Компьютерные сети](zadachi-kompyuternie-seti.md)
