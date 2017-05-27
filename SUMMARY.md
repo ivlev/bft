@@ -17,7 +17,7 @@
 * [Задачи: Графы](zadachi-grafi.md)
 * [Задачи: Компьютерные сети](zadachi-kompyuternie-seti.md)
 * Задачи: Базы данных 
-* Задачи: Декодирование информации
+* [Задачи: Декодирование информации](zadachi-dekodirovanie-informatsii.md)
 * [Задачи: Прикладное программное обеспечение](zadachi-prikladnoe-programmnoe-obespechenie.md)
 * [Задачи: Компьютерные сети](zadachi-kompyuternie-seti.md)
 * [Задачи: Программирование](zadachi-programmirovanie.md)
