@@ -28,13 +28,23 @@
 
 14. **Напишите в ответе наибольшее значение входной переменной k, при котором программа выдаёт тот же ответ, что и **при входном значении k = 16.![](/assets/Снимок экрана 2017-05-27 в 22.30.50.png)
 
-15. Напишите в ответе наибольшее значение входной переменной k, при котором программа выдаёт тот же ответ, что и при входном значении k = 16.![](/assets/Снимок экрана 2017-05-27 в 22.31.33.png)
+15. **Напишите в ответе наибольшее значение входной переменной k, при котором программа выдаёт тот же ответ, что и при входном значении k = 16.**![](/assets/Снимок экрана 2017-05-27 в 22.31.33.png)
 
-16. кенкценц
+16. На обработку поступает натуральное число, не превышающее 10[^2]
+
+    . Нужно написать программу, которая выводит на экран максимальную цифру числа, кратную 3. Если в числе нет цифр, кратных 3, требуется на экран вывести «NO». Программист написал программу неправильно. Напоминание: 0 делится на любое натуральное число.
+
+  
+
+
+    | Паскаль | Python | Си |
+    | :--- | :--- | :--- |
+    | var N,digit,maxDigit: longint; begin readln\(N\); maxDigit := N mod 10; while N &gt; 0 do begin  digit := N mod 10;  if digit mod 3 = 0 then  if digit &gt; maxDigit then  maxDigit := digit;  N := N div 10; end; if maxDigit = 0 then  writeln\('NO'\) else  writeln\(maxDigit\) end.  | N = int\(input\(\)\) maxDigit = N % 10 while N &gt; 0:  digit = N % 10;  if digit % 3 == 0:  if digit &gt; maxDigit:  maxDigit = digit  N = N // 10; if maxDigit == 0:  print\("NO"\) else:  print\(maxDigit\)  | \#include &lt;stdio.h&gt; int main\(\) { int N,digit,maxDigit; scanf\("%d", &N\); maxDigit = N % 10; while \( N &gt; 0 \) {  digit = N % 10;  if \( digit % 3 == 0 \)  if \( digit &gt; maxDigit \)  maxDigit = digit;  N = N / 10; } if \(maxDigit == 0 \)  printf\("NO"\); else  printf\("%d", maxDigit\); return 0; } |
 
 17. пвапвп
 
 18. вапвапва
+
 19. вапывпвы
 20. выапвпвпа
 21. выапвапвап
@@ -42,4 +52,8 @@
 23. выапвап
 
 
+
+[^1]: Enter footnote here.
+
+[^2]: Enter footnote here.
 
