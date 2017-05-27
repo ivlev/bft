@@ -18,7 +18,7 @@
 * [Задачи: Компьютерные сети](zadachi-kompyuternie-seti.md)
 * Задачи: Базы данных 
 * Задачи: Декодирование информации
-* Задачи: Прикладное программное обеспечение
-* Задачи: Компьютерные сети
+* [Задачи: Прикладное программное обеспечение](zadachi-prikladnoe-programmnoe-obespechenie.md)
+* [Задачи: Компьютерные сети](zadachi-kompyuternie-seti.md)
 * [Задачи: Программирование](zadachi-programmirovanie.md)
 
