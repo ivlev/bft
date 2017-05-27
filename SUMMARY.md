@@ -5,7 +5,7 @@
 * [Порядок изучения курса](second-question.md)
 * [Системы счисления](sistemi-schisleniya.md)
 * [Математическая логика](matematicheskaya-logika.md)
-* Графы
+* [Графы](grafi.md)
 * Базы данных
 * [Декодирование информации](dekodirovanie-informatsii.md)
 * [Прикладное программное обеспечение](prikladnoe-programmnoe-obespechenie.md)
