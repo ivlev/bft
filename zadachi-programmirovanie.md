@@ -1,6 +1,6 @@
 # Задачи: Программирование
 
-1. **Запишите число, которое будет напечатано в результате выполнения следующей программы.**
+1. **Запишите число, которое будет напечатано в результате выполнения следующей программы.**![](/assets/Снимок экрана 2017-05-27 в 22.17.21.png)
 
    | Паскаль | Python | Си |
    | :--- | :--- | :--- |
@@ -84,13 +84,14 @@
     | :--- | :--- | :--- |
     | var k, i : longint; function f\(n: longint\): longint; begin  f := n \* n \* n; end; function g\(n: longint\): longint; begin  g := 3\*n + 3; end; begin  readln\(k\);  i := 1;  while f\(i\) &lt; g\(k\) do  i := i+1;  writeln\(i\) end. | def f\(n\):  return n \* n \* n def g\(n\):  return 3\*n + 3 k = int\(input\(\)\) i = 1 while f\(i\) &lt; g\(k\):  i+=1 print \(i\) | \#include &lt;stdio.h&gt; long f\(long n\) {  return n \* n \* n; } long g\(long n\) {  return 3\*n + 3; } int main\(\) { long k, i; scanf\("%ld", &k\); i = 1; while\(f\(i\) &lt; g\(k\)\)  i++; printf\("%ld", i\); return 0; } |
 
-15. Напишите в ответе наибольшее значение входной переменной k, при котором программа выдаёт тот же ответ, что и при входном значении k = 16.
+15. Напишите в ответе наибольшее значение входной переменной k, при котором программа выдаёт тот же ответ, что и при входном значении k = 16.
 
     | Паскаль | Python | Си |
     | :--- | :--- | :--- |
     | var k, i : longint; function f\(n: longint\): longint; begin  f := n \* n \* n; end; function g\(n: longint\): longint; begin  g := 3\*n + 3; end; begin  readln\(k\);  i := 1;  while f\(i\) &lt; g\(k\) do  i := i+1;  writeln\(i\) end. | def f\(n\):  return n \* n \* n def g\(n\):  return 3\*n + 3 k = int\(input\(\)\) i = 1 while f\(i\) &lt; g\(k\):  i+=1 print \(i\) | \#include &lt;stdio.h&gt; long f\(long n\) {  return n \* n \* n; } long g\(long n\) {  return 3\*n + 3; } int main\(\) { long k, i; scanf\("%ld", &k\); i = 1; while\(f\(i\) &lt; g\(k\)\)  i++; printf\("%ld", i\); return 0; } |
 
 16. кенкценц
+
 17. пвапвп
 18. вапвапва
 19. вапывпвы
