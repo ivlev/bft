@@ -9,7 +9,7 @@
 * Базы данных
 * [Декодирование информации](dekodirovanie-informatsii.md)
 * [Прикладное программное обеспечение](prikladnoe-programmnoe-obespechenie.md)
-* Компьютерные сети
+* [Компьютерные сети](kompyuternie-seti.md)
 * Программирование
 * [Задачи](zadachi.md)
 * [Задачи: Системы счисления](zadachi-sistemi-schisleniya.md)
