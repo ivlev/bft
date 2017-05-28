@@ -352,10 +352,10 @@ Hello World!
 >>> input("Введите номер карты: ") 
 Введите номер карты: 98765 
 '98765'
->>> input('Input your name: ')
-Input your name: Sasha 
+>>> input('Input your name: ')
+Input your name: Sasha 
 'Sasha'
->>>
+>>>
 ```
 
 
